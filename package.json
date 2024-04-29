@@ -52,6 +52,7 @@
     "@vitejs/plugin-react": "^4.0.0",
     "autoprefixer": "^10.4.8",
     "construct-style-sheets-polyfill": "^3.1.0",
+    "daisyui": "^4.10.2",
     "eslint": "^8.42.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
